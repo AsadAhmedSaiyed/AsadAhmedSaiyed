@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AsadAhmedSaiyed&theme=dark_lover" alt="AsadAhmedSaiyed" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS and ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **asadahmedsaiyed786@gmail.com**
 
