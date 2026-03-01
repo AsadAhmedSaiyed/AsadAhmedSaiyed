@@ -58,27 +58,27 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AsadAhmedSaiyed&theme=radical&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AsadAhmedSaiyed&theme=ocean&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsadAhmedSaiyed&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsadAhmedSaiyed&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsadAhmedSaiyed&show_icons=true&locale=en&theme=ocean_dark&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsadAhmedSaiyed&show_icons=true&locale=en&layout=compact&theme=ocean_dark&hide_border=true" alt="Top Languages" height="180em" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadAhmedSaiyed&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadAhmedSaiyed&theme=ocean_dark&hide_border=true" alt="GitHub Streak" height="180em" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAhmedSaiyed&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAhmedSaiyed&theme=ocean&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
