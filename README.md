@@ -1,35 +1,110 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm ASAD AHMED SAIYED</h1>
-<h3 align="center">Full Stack Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsadAhmedSaiyed&label=Profile%20views&color=0e75b6&style=flat" alt="AsadAhmedSaiyed" /> </p>
 
+<h1 align="center">Hi 👋, I'm Asad Ahmed Saiyed</h1>
+<h3 align="center">Full-Stack Developer · DevOps Enthusiast · Open Source Contributor</h3>
 
-- 🌱 I’m currently learning **Java and DSA**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsadAhmedSaiyed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 📫 How to reach me **asadahmedsaiyed786@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/asad-ahmed-saiyed-371509302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AsadAhmedSaiyed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:asadahmedsaiyed786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://asadahmedsaiyed.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<div> <a href="https://www.linkedin.com/in/asad-ahmed-saiyed-371509302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/AsadAhmedSaiyed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:asadahmedsaiyed786@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asad-ahmed-saiyed-371509302" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="asad-ahmed-saiyed-371509302" height="30" width="40" /></a><a href="https://www.hackerrank.com/@asadahmedsaiyed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@asadahmedsaiyed1" height="30" width="40" /></a></p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
 
-<h3 align="left">Stars</h3>
+- 🎓 B.Tech in Computer Engineering @ **Birla Vishvakarma Mahavidyalaya** (2024–2028)
+- 🌱 Currently deepening expertise in **Distributed Systems & Cloud-Native Architecture**
+- 🎃 **Hacktoberfest 2025** — 7 PRs merged across open source projects
+- 📫 Reach me at **asadahmedsaiyed786@gmail.com**
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AsadAhmedSaiyed&theme=vue-dark" alt="AsadAhmedSaiyed" /></p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+### 🛠️ Languages & Tools
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/>C</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML5</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/>CSS3</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>SQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React</td>
+    <td align="center" width="80"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/><br/>Next.js</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/>Node.js</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/>Express</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/>Tailwind</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br/>Redis</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br/>Docker</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/><br/>Kubernetes</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/><br/>Azure</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/><br/>Grafana</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/><br/>Prometheus</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/><br/>GitHub</td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+| &nbsp; | Project | What it does | Stack |
+|---|---|---|---|
+| 🌳 | **[TreeTrace](https://github.com/AsadAhmedSaiyed/treetrace)** | Satellite-powered deforestation detection with AI-generated reports & NGO alert pipeline. Sustains 100 parallel requests at 100% uptime. | MERN, GEE, GPT-4o, AKS, Docker, Prometheus |
+| ⚡ | **[FlashGuard](https://github.com/AsadAhmedSaiyed/flashguard)** | Open-source JS concurrency library that eliminates Thundering Herd cache stampedes — 99% DB load reduction, 27% higher throughput. | Node.js, Redis, Next.js |
+| 🎬 | **[StreamSummarizer](https://github.com/AsadAhmedSaiyed/streamsummarizer)** | RAG pipeline for YouTube video summarization with zero-cost, API-free embeddings powered by Claude-3. | Qdrant, Claude-3, BrightData |
+
+---
+
+### 🌍 Open Source — Hacktoberfest 2025
+
+> **7 PRs merged** · Oct 2025
+
+- 🤖 Built an AI agent–powered B2B newsletter generator for **Alchemyst AI** using Next.js, TypeScript & Google Gemini
+- 🔒 Fixed a CSP avatar upload bug in **QryptChat** to unblock user onboarding
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadAhmedSaiyed&theme=vue-dark" height="180em" alt="streak" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Statistics</h3>
+
 <div align="center">
-<a href="https://github.com/AsadAhmedSaiyed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsadAhmedSaiyed&theme=aura_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsadAhmedSaiyed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsadAhmedSaiyed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsadAhmedSaiyed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsadAhmedSaiyed&theme=aura_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsadAhmedSaiyed&theme=aura_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsadAhmedSaiyed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsadAhmedSaiyed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsadAhmedSaiyed&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsadAhmedSaiyed&theme=aura_dark" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAhmedSaiyed&theme=vue"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">⚡ Activity Graph</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAhmedSaiyed&theme=vue" />
